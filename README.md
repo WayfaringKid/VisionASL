@@ -40,6 +40,7 @@ The **VisionASL** aims to bridge communication gaps for the deaf and hard-of-hea
 - **AVFoundation**: Audio processing for speech-to-text.
 - **Xcode**: Development, debugging, and profiling.
 
-## dev notes
+## dev thoughts & notes
 - shared space in visionOS across different headset - everyone see same translation
 - noticing user proper speed of asl while translating
+- flow translation sync to all devices while require only one headset aiming the asl user (process management)
